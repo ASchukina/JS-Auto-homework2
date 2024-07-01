@@ -1,0 +1,33 @@
+{
+  "name": "lec2",
+  "version": "1.0.0",
+  "description": "homework2 neto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASchukina/JS-Auto-homework2.git"
+  },
+  "keywords": [
+    "homework2"
+  ],
+  "author": "Schukina Alexandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASchukina/JS-Auto-homework2/issues"
+  },
+  "homepage": "https://github.com/ASchukina/JS-Auto-homework2#readme",
+  "devDependencies": {
+    "cypress": "^13.12.0",
+    "eslint": "^8.48.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "^3.0.3"
+  }
+}
